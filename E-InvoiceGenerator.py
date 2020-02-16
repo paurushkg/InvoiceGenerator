@@ -190,7 +190,7 @@ MidRight.pack(side=RIGHT, pady=10)
 TableMargin = Frame(root, width=500)
 TableMargin.pack(side=TOP)
 #============================LABELS======================================
-lbl_title = Label(Top, text="Prem Mobile", font=('arial', 16), width=500)
+lbl_title = Label(Top, text="Shop Name", font=('arial', 16), width=500)
 lbl_title.pack(fill=X)
 
 #============================BUTTONS=====================================
