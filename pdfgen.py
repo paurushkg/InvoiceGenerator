@@ -35,11 +35,11 @@ def header(header,pdf):
 
   pdf.line(30,815,350,815)
   pdf.setFont("Courier-Bold",20)
-  pdf.drawString(30,800,"Prem Mobile")
+  pdf.drawString(30,800,"Shop Name")
   pdf.setFont("Courier-Bold",11)
-  pdf.drawString(30,785,"Barlai Mod - Badagaon,")
-  pdf.drawString(30,770,"Mau, Uttar Pradesh, India,")
-  pdf.drawString(30,755,"275101.  Phone: 9450037365")
+  pdf.drawString(30,785,"Address Line1,")
+  pdf.drawString(30,770,"Address Line2,")
+  pdf.drawString(30,755,"Pincode. Phone: Contact Number")
 
   pdf.line(30,753,350,753)
 
